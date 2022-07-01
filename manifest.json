@@ -1,0 +1,10 @@
+{
+  "name": "demo extention",
+  "manifest_version" : 2, 
+  "version": "0.0.1",
+  "descripition": "demo",
+  "browser_action": {
+    "default_popup": "demo.html",
+    "default_icon": "demo.png"
+  }
+}
